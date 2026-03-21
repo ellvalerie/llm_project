@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-anthropic
+beautifulsoup4
+lxml
+ipykernel
+pandas
