@@ -7,3 +7,9 @@ beautifulsoup4
 lxml
 ipykernel
 pandas
+requests 
+python-dotenv  
+transformers 
+torch 
+accelerate 
+bert-score
