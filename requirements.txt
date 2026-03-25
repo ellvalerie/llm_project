@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-huggingface
+sentence_transformers
+faiss-cpu
+beautifulsoup4
+lxml
+ipykernel
+pandas
+requests 
+python-dotenv  
+transformers 
+torch 
+accelerate 
+bert-score
